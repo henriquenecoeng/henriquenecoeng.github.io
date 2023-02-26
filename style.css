@@ -9,7 +9,7 @@ body{
     height: 100vh;
 }
 .conteudo{
-    height: 80%;
+    height: 75%;
 }
 .conteudo img{
     width: 70%;
@@ -17,7 +17,7 @@ body{
 .conteudo h1{
     text-align: center;
     font-weight: 400;
-    font-size: 26px;
+    font-size: 22px;
 }
 .footer a{
     color: gainsboro;
