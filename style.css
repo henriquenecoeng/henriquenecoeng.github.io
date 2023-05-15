@@ -6,8 +6,15 @@ body {
   font-family: "Titillium Web", "Space Grotesk", sans-serif;
 }
 
+<<<<<<< HEAD
 .container {
   height: 100vh;
+=======
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Space Grotesk', sans-serif;
+>>>>>>> parent of 327b8a3 (cores)
 }
 
 .conteudo {
@@ -17,17 +24,23 @@ body {
 .conteudo #logo {
   width: 50%;
 }
+<<<<<<< HEAD
 
 .conteudo h1 {
   text-align: center;
   font-weight: 400;
   font-size: 22px;
+=======
+.conteudo img{
+    width: 100%;
+>>>>>>> parent of 327b8a3 (cores)
 }
 
 .titulo-home {
   font-size: 2rem;
   font-weight: 600;
 }
+<<<<<<< HEAD
 
 .red {
   background-color: red;
@@ -48,3 +61,13 @@ body {
 .footer a:hover {
   color: #3A8DDE;
 }/*# sourceMappingURL=style.css.map */
+=======
+.footer a{
+    color: gainsboro;
+    text-decoration: none;
+    transition: 300ms;
+}
+.footer a:hover{
+    color: white;
+}
+>>>>>>> parent of 327b8a3 (cores)
